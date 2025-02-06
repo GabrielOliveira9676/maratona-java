@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Sformatacao.test;
+package academy.devdojo.maratonajava.src.javacore.Sformatacao.test;
 
 public class testeHello {
     public static void main(String[] args) {
