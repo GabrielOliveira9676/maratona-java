@@ -4,5 +4,6 @@ public class testeHello {
     public static void main(String[] args) {
 
         System.out.print("Você é lindo");
+        System.out.println("Você é feio");
     }
 }
