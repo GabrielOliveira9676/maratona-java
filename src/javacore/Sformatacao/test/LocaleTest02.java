@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Sformatacao.test;
+package academy.devdojo.maratonajava.src.javacore.Sformatacao.test;
 
 import java.util.Locale;
 
@@ -9,11 +9,11 @@ public class LocaleTest02 {
         String[] isoLanguages = Locale.getISOLanguages();
 
         for (String isoLanguage : isoLanguages) {
-            System.out.print(isoLanguage+ " ");
+            System.out.print(isoLanguage + " ");
         }
         System.out.println();
         for (String isoCountry : isoCountries) {
-            System.out.print(isoCountry+ " ");
+            System.out.print(isoCountry + " ");
         }
 
 
