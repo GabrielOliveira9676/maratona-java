@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Hheranca.test;
+package academy.devdojo.maratonajava.src.javacore.Hheranca.test;
 
-import academy.devdojo.maratonajava.javacore.Hheranca.domain.Endereco;
-import academy.devdojo.maratonajava.javacore.Hheranca.domain.Funcionario;
-import academy.devdojo.maratonajava.javacore.Hheranca.domain.Pessoa;
+import academy.devdojo.maratonajava.src.javacore.Hheranca.domain.Endereco;
+import academy.devdojo.maratonajava.src.javacore.Hheranca.domain.Funcionario;
+import academy.devdojo.maratonajava.src.javacore.Hheranca.domain.Pessoa;
 
 public class HerencaTest01 {
     public static void main(String[] args) {

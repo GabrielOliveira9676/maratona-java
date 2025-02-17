@@ -1,7 +1,7 @@
-package academy.devdojo.maratonajava.javacore.Npolimorfismo.test;
+package academy.devdojo.maratonajava.src.javacore.Npolimorfismo.test;
 
-import academy.devdojo.maratonajava.javacore.Npolimorfismo.repositorio.Repositorio;
-import academy.devdojo.maratonajava.javacore.Npolimorfismo.servico.RepositorioBancoDeDados;
+import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.repositorio.Repositorio;
+import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.servico.RepositorioBancoDeDados;
 
 import java.util.LinkedList;
 import java.util.List;

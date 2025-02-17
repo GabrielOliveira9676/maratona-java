@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Kenum.domain;
+package academy.devdojo.maratonajava.src.javacore.Kenum.domain;
 
 public class Cliente {
 

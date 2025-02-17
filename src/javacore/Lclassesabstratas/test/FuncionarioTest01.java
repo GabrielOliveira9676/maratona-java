@@ -1,8 +1,7 @@
-package academy.devdojo.maratonajava.javacore.Lclassesabstratas.test;
+package academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.test;
 
-import academy.devdojo.maratonajava.javacore.Lclassesabstratas.domain.Desenvolvedor;
-import academy.devdojo.maratonajava.javacore.Lclassesabstratas.domain.Funcionario;
-import academy.devdojo.maratonajava.javacore.Lclassesabstratas.domain.Gerente;
+import academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.domain.Desenvolvedor;
+import academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.domain.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Kenum.test;
+package academy.devdojo.maratonajava.src.javacore.Kenum.test;
 
-import academy.devdojo.maratonajava.javacore.Kenum.domain.Cliente;
-import academy.devdojo.maratonajava.javacore.Kenum.domain.TipoCliente;
-import academy.devdojo.maratonajava.javacore.Kenum.domain.TipoPagamento;
+import academy.devdojo.maratonajava.src.javacore.Kenum.domain.Cliente;
+import academy.devdojo.maratonajava.src.javacore.Kenum.domain.TipoCliente;
+import academy.devdojo.maratonajava.src.javacore.Kenum.domain.TipoPagamento;
 
 public class ClientTest01 {
     public static void main(String[] args) {

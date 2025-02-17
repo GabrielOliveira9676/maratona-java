@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Rdates.test;
-
-import academy.devdojo.maratonajava.javacore.Gassociacao.domain.Local;
+package academy.devdojo.maratonajava.src.javacore.Rdates.test;
 
 import java.time.LocalDate;
 import java.time.Month;

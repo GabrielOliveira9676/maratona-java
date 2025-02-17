@@ -1,9 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Rdates.test;
+package academy.devdojo.maratonajava.src.javacore.Rdates.test;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.util.Locale;
 
 public class LocalDateTimeTest01 {
     public static void main(String[] args) {

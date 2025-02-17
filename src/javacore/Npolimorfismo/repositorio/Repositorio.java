@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Npolimorfismo.repositorio;
+package academy.devdojo.maratonajava.src.javacore.Npolimorfismo.repositorio;
 
 public interface Repositorio {
     public abstract void salvar();
