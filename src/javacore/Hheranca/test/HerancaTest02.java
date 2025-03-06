@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Hheranca.test;
+package academy.devdojo.maratonajava.javacore.Hheranca.test;
 
 import academy.devdojo.maratonajava.src.javacore.Hheranca.domain.Funcionario;
 

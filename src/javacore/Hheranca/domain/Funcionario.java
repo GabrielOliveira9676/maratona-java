@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Hheranca.domain;
+package academy.devdojo.maratonajava.javacore.Hheranca.domain;
 
 public class Funcionario extends Pessoa {
     private double salario;

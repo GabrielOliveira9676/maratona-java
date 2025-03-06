@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.test;
+package academy.devdojo.maratonajava.javacore.Lclassesabstratas.test;
 
 import academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.domain.Desenvolvedor;
 import academy.devdojo.maratonajava.src.javacore.Lclassesabstratas.domain.Gerente;

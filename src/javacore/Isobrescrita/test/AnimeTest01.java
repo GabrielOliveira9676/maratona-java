@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Isobrescrita.test;
+package academy.devdojo.maratonajava.javacore.Isobrescrita.test;
 
 import academy.devdojo.maratonajava.src.javacore.Isobrescrita.domain.Anime;
 

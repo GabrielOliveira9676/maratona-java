@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Npolimorfismo.servico;
+package academy.devdojo.maratonajava.javacore.Npolimorfismo.servico;
 import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Produto;
 import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Tomate;
 

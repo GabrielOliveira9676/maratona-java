@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Kenum.test;
+package academy.devdojo.maratonajava.javacore.Kenum.test;
 
 import academy.devdojo.maratonajava.src.javacore.Kenum.domain.Cliente;
 import academy.devdojo.maratonajava.src.javacore.Kenum.domain.TipoCliente;

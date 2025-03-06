@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Minterfaces.domain;
+package academy.devdojo.maratonajava.javacore.Minterfaces.domain;
 
 //Interface é como se fosse um contato em que todos os metodos serão publicos e abstrato. Se não for abstrato precisa ser default, a partir do Java 8
 public interface DataLoader {

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Gassociacao.test;
+package academy.devdojo.maratonajava.javacore.Gassociacao.test;
 
 import academy.devdojo.maratonajava.src.javacore.Gassociacao.domain.Escola;
 import academy.devdojo.maratonajava.src.javacore.Gassociacao.domain.Professor;

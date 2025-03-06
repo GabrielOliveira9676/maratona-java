@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Jmodificadorfinal.test;
+package academy.devdojo.maratonajava.javacore.Jmodificadorfinal.test;
 
 import academy.devdojo.maratonajava.src.javacore.Jmodificadorfinal.domain.Carro;
 import academy.devdojo.maratonajava.src.javacore.Jmodificadorfinal.domain.Ferrari;

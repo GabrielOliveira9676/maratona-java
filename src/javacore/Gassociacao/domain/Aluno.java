@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Gassociacao.domain;
+package academy.devdojo.maratonajava.javacore.Gassociacao.domain;
 
 public class Aluno {
     private String nome;

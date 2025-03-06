@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.src.javacore.Aintroducaoclasses.test;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
-import academy.devdojo.maratonajava.src.javacore.Aintroducaoclasses.domain.Carro;
+import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.domain.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

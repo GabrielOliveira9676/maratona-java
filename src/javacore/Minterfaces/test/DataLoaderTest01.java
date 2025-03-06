@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Minterfaces.test;
+package academy.devdojo.maratonajava.javacore.Minterfaces.test;
 
 import academy.devdojo.maratonajava.src.javacore.Minterfaces.domain.DataLoader;
 import academy.devdojo.maratonajava.src.javacore.Minterfaces.domain.DatabaseLoader;

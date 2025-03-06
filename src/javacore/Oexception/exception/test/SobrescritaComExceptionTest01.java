@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Oexception.exception.test;
+package academy.devdojo.maratonajava.javacore.Oexception.exception.test;
 
 import academy.devdojo.maratonajava.src.javacore.Oexception.exception.domain.Funcionario;
 import academy.devdojo.maratonajava.src.javacore.Oexception.exception.domain.LoginInvalidoException;

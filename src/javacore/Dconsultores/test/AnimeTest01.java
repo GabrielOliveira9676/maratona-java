@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Dconsultores.test;
+package academy.devdojo.maratonajava.javacore.Dconsultores.test;
 
 
 import academy.devdojo.maratonajava.src.javacore.Dconsultores.domain.Anime;

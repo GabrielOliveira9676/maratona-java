@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.src.javacore.Minterfaces.domain;
+package academy.devdojo.maratonajava.javacore.Minterfaces.domain;
 
 public class FileLoader  implements DataLoader, DataRemover{
 
