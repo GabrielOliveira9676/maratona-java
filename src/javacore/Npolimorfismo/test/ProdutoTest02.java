@@ -1,9 +1,9 @@
 package academy.devdojo.maratonajava.javacore.Npolimorfismo.test;
 
-import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Computador;
-import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Produto;
-import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Televisao;
-import academy.devdojo.maratonajava.src.javacore.Npolimorfismo.domain.Tomate;
+import academy.devdojo.maratonajava.javacore.Npolimorfismo.domain.Computador;
+import academy.devdojo.maratonajava.javacore.Npolimorfismo.domain.Produto;
+import academy.devdojo.maratonajava.javacore.Npolimorfismo.domain.Televisao;
+import academy.devdojo.maratonajava.javacore.Npolimorfismo.domain.Tomate;
 
 public class ProdutoTest02 {
     public static void main(String[] args) {

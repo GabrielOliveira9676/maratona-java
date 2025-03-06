@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Oexception.exception.test;
 
-import academy.devdojo.maratonajava.src.javacore.Oexception.exception.domain.LoginInvalidoException;
+import academy.devdojo.maratonajava.javacore.Oexception.exception.domain.LoginInvalidoException;
 
 import java.util.Scanner;
 
